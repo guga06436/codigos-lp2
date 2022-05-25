@@ -1,0 +1,9 @@
+1) O que é o problema da seção crítica? Dê exemplos de situações onde tal problema acontece e fale sobre as propriedades almejadas para uma solução ideal.
+
+Resposta:
+
+O problema da seção crítica está ligado com a área do código que acessa um recurso compartilhado e que não deve ser acessado concorrentemente por outra execução. 
+
+Esse problema pode ocorrer quando, por exemplo, diversas threads estão tentando acessar uma variável global. 
+
+A solução ideal precisa satisfazer as propriedades de exclusão mútua, ausência de deadlock, ausência de atrso e entrada eventual.

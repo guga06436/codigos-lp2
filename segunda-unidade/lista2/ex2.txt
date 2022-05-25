@@ -1,0 +1,1 @@
+2) Relacione o controle do ciclo de vida de threads a partir da API POSIX Threads (PThreads) com o problema da seção crítica e cite uma forma de usar recursos da API PThreads para contornar este problema
