@@ -1,0 +1,7 @@
+Consistência de Memória: Mecanismo que fornece a possibilidade de que as threads em execução
+se comuniquem corretamente
+
+
+Programa anterior: Como não há consitência de memória, o valor final da variável global é incerto,
+podendo variar. Uma forma de contornar esse problema seria utilizando o thread_join juntamente com um for
+para limitar as threads

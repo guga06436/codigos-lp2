@@ -1,0 +1,2 @@
+gcc -o term term.c -lpthread
+gcc -o ex2_threads ex2_threads.c -lpthread
